@@ -1,4 +1,4 @@
-👋 Hello, I'm Shery!
+👋 Hello, I'm Aryan Shery!
 
 🚀 AI/ML Engineer focusing on applied AI and passionate about turning data into actionable insights.
 
@@ -6,7 +6,7 @@
 
 📧 Email: mdshery.ind@gmai.com
 
-👨‍💻 GitHub: SheryAI
+👨‍💻 GitHub: AryanShery
 
 About Me 🌐
 Blending 1+ years in ML, NLP and Software Engineering, I sculpt data & language into experiences.
@@ -15,11 +15,11 @@ Professional Highlights 🌟
 
 
 Education 🎓
-Masters in IT, The University of Melbourne
-Bachelors in Computer Applications, Bhartiya Vidyapeeth University
+Bachelars in Computer Science, RGPV University of Bhopal 
 Certifications 📜
 Coursera: Deep Learning, Machine Learning, Mathematics for ML Specializations
 Udacity: NLP, ML, React Nanodegrees
+
 🔗 Let's ideate, innovate, and integrate AI into tomorrow. Reach out for collaborations or simply to chat about the endless possibilities of AI!
 
 
