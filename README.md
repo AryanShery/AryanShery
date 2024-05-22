@@ -1,26 +1,26 @@
-# About Me
+👋 Hello, I'm Shery!
+🚀 AI/ML Engineer focusing on applied AI and passionate about turning data into actionable insights.
+📍 India
+📧 Email: mdshery.ind@gmai.com
+👨‍💻 GitHub: SheryAI
 
-![Hey everyone!](https://via.placeholder.com/1200x300.png?text=Hey+everyone!)
+About Me 🌐
+Blending 1+ years in ML, NLP and Software Engineering, I sculpt data & language into experiences.
 
-## Hi there! 👋
+Professional Highlights 🌟
+Lead AI Engineer - OneByZero, Singapore (2023 - Present)
+Senior AI Engineer - Splore, Singapore (2023)
+ML Engineer - NLP - Unscrambl, India (2017 - 2022)
 
-I’m Aryan Shery, a data scientist passionate about turning data into actionable insights.
 
-- 🔭 I’m currently working on [Your Project](link-to-your-project)
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Your Collaboration Interest]
-- 🤔 I’m looking for help with [Your Help Request]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+Education 🎓
+Masters in IT, The University of Melbourne
+Bachelors in Computer Applications, Bhartiya Vidyapeeth University
+Certifications 📜
+Coursera: Deep Learning, Machine Learning, Mathematics for ML Specializations
+Udacity: NLP, ML, React Nanodegrees
+🔗 Let's ideate, innovate, and integrate AI into tomorrow. Reach out for collaborations or simply to chat about the endless possibilities of AI!
 
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-YourUsername-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-lightgrey?style=flat&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-orange?style=flat)](https://yourwebsite.com)
 
 ## Skills
 
