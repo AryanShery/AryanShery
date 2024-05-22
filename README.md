@@ -1,16 +1,17 @@
 👋 Hello, I'm Shery!
+
 🚀 AI/ML Engineer focusing on applied AI and passionate about turning data into actionable insights.
+
 📍 India
+
 📧 Email: mdshery.ind@gmai.com
+
 👨‍💻 GitHub: SheryAI
 
 About Me 🌐
 Blending 1+ years in ML, NLP and Software Engineering, I sculpt data & language into experiences.
 
 Professional Highlights 🌟
-Lead AI Engineer - OneByZero, Singapore (2023 - Present)
-Senior AI Engineer - Splore, Singapore (2023)
-ML Engineer - NLP - Unscrambl, India (2017 - 2022)
 
 
 Education 🎓
